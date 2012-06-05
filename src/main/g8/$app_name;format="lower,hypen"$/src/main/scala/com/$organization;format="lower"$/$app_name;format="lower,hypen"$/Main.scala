@@ -1,5 +1,5 @@
 
-package com.$organization$.$app_name$
+package com.$organization;format="lower"$.$app_name;format="lower,hypen"$
 
 import akka.actor.{Props, ActorSystem}
 import cc.spray.{SprayCanRootService, HttpService}
